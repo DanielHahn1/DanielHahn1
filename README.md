@@ -29,29 +29,26 @@
 <p align="center">
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" /></a>
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
+  <a href="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
 </p>
 
 ---
 
 ### 🔎 Interesse nas Linguagens/Ferramentas
 
-
-
 <p align="center">
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /></a>
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /></a>
-  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Nmap-000000?style=flat-square" /></a>
-  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" /></a>
-  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square" /></a>
-  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white" /></a>
+  <a href="https://img.shields.io/badge/-Nmap-000000?style=flat-square" /></a>
+  <a href="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" /></a>
+  <a href="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square" /></a>
+  <a href="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white" /></a>
 </p>
-
 
 ---
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/danielhahnr/]/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/danielhahnr/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 <p align="center">
