@@ -35,8 +35,6 @@
 
 ### 🔎 Interesse nas Linguagens/Ferramentas
 
-**Linguagens/Ferramentas**
-
 <p align="center">
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /></a>
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /></a>
