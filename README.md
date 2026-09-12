@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DanielHahn1"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=1D9E75&center=true&vCenter=true&width=900&lines=Seja+bem-vindo+ao+meu+perfil%21;Me+chamo+Daniel+Hahn;Futuro+especialista+em+ciberseguranca" /></a>
+  <a href="https://github.com/DanielHahn1"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=1D9E75&center=true&vCenter=true&width=900&lines=Seja+bem-vindo+ao+meu+perfil%21;Me+chamo+Daniel+Hahn" /></a>
 </p>
 
 ---
