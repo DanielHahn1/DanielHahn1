@@ -11,17 +11,16 @@
 ### 🧑‍💻 Sobre mim
 
 - 🎓 Realizando o Curso Superior de Tecnólogo em Tecnologia da Informação e Comunicação na **FAETERJ**
-- 🔐 Pretendo me especializar em cibersegurança
-- 🌱 Aprendendo aos poucos, um passo de cada vez, conhecimento nunca é demais!
+- 🔒 Pretendo me especializar em cibersegurança
+- 🏆 Aprendendo aos poucos, um passo de cada vez, conhecimento nunca é demais!
 
 ---
 
 ### 🎯 Foco atual
 
-- 📚 Ainda em aprendizado sobre o que a tecnologia e computação podem me oferecer
+- 💻 Ainda em aprendizado sobre o que a tecnologia e a computação podem me oferecer
 - 👾 Explorar a fundo o mundo de cibersegurança
 - 🖥️ Ter mais conhecimento sobre a área de T.I
-
 ---
 
 ### 🛠️ Iniciante nas Linguagens
@@ -29,20 +28,22 @@
 <p align="center">
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" /></a>
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
+  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
 </p>
 
 ---
 
 ### 🔎 Interesse nas Linguagens/Ferramentas
 
+**Linguagens/Ferramentas**
+
 <p align="center">
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /></a>
   <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /></a>
-  <a href="https://img.shields.io/badge/-Nmap-000000?style=flat-square" /></a>
-  <a href="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" /></a>
-  <a href="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square" /></a>
-  <a href="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white" /></a>
+  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Nmap-000000?style=flat-square" /></a>
+  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" /></a>
+  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square" /></a>
+  <a href="https://github.com/DanielHahn1"><img src="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white" /></a>
 </p>
 
 ---
